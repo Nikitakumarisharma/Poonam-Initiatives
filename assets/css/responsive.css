@@ -32,7 +32,8 @@ iframe {
     font-size: 15px ;
 }
 a.logo_img img {
-    width: 170px;
+    width: 200px;
+    height: 100px;
 }
 .header-button a {
     padding: 10px 30px;
@@ -71,7 +72,7 @@ iframe {
     padding: 0 0 0 12px;
 }
 a.logo_img img {
-    width: 75%;
+    width: 5%;
 }
 a.main_sticky img {
     width: 100% ;

@@ -116,7 +116,7 @@ Tags:       campaign, charity, church, donate, donations, foundation, fund, fund
     height: 175%;
     z-index: -1;
     width: 22%;
-    background: #1B2B2B;
+    background: white;
 }
 .charina_nav_manu.style-three:before {
     display: none;
