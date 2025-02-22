@@ -27,7 +27,7 @@ iframe {
 
 /* Normal desktop :1200px. */
 @media (min-width: 1200px) and (max-width: 1500px) {
-.charina_menu > ul > li > a {
+.Charina_menu > ul > li > a {
     margin: 30px 6px ;
     font-size: 15px ;
 }
@@ -65,10 +65,10 @@ iframe {
 
 /* Normal desktop :992px. */
 @media (min-width: 992px) and (max-width: 1199px) {
-.charina_nav_manu:before {
+.Charina_nav_manu:before {
     width: 190px;
 }
-.charina_nav_manu {
+.Charina_nav_manu {
     padding: 0 0 0 12px;
 }
 a.logo_img img {
@@ -90,10 +90,10 @@ a.main_sticky img {
 .header-button2 {
     display: none;
 }
-nav.charina_menu > ul > li > a span {
+nav.Charina_menu > ul > li > a span {
     display: none;
 }
-.charina_menu > ul > li > a {
+.Charina_menu > ul > li > a {
     font-size: 15px;
     margin: 29px 8px;
 }
@@ -114,7 +114,7 @@ nav.charina_menu > ul > li > a span {
     font-size: 15px;
     font-weight: 400;
 }
-.style-two.charina_nav_manu .charina-button a {
+.style-two.Charina_nav_manu .Charina-button a {
     padding: 12px 35px;
     font-size: 14px;
 }
@@ -145,14 +145,14 @@ img.feature-image-2 {
 
 
 /*section title*/
-.charina-section-title h1 {
+.Charina-section-title h1 {
     font-size: 34px;
     line-height: 40px;
 }
-.charina-section-title h5 {
+.Charina-section-title h5 {
     font-size: 16px;
 }
-.charina-section-title p {
+.Charina-section-title p {
     font-size: 15px;
 }
 /* End section title*/ 
@@ -297,7 +297,7 @@ p.progress-text {
 }
 
 /*mission section*/
-.charina-mission-content {
+.Charina-mission-content {
     padding: 0 0 0 45px;
 }
 .mission-title h3 {
@@ -333,7 +333,7 @@ p.progress-text {
 .call-do-title h2 {
     font-size: 40px;
 }
-.style-three.call-to-action .charina-section-title h1 {
+.style-three.call-to-action .Charina-section-title h1 {
     font-size: 25px;
     line-height: 35px;
 }
@@ -363,7 +363,7 @@ p.progress-text {
 
 /*blog section*/
 
-.charina-blog-thumb img {
+.Charina-blog-thumb img {
     width: 100%;
 }
 .blog-title h2 a {
@@ -403,11 +403,11 @@ iframe {
 .breatcam-title h1 {
     font-size: 36px;
 }
-.donation-details-section .charina-button a {
+.donation-details-section .Charina-button a {
     padding: 9px 28px;
     font-size: 13px;
 }
-.donation-details-section .charina-button a i {
+.donation-details-section .Charina-button a i {
     font-size: 12px;
     margin-left: 3px;
 }
@@ -421,7 +421,7 @@ iframe {
     text-align: center;
     margin-right: 28px !important;
 }
-.charina-donars {
+.Charina-donars {
     padding: 30px 42px 30px;
 }
 .post-button a {
@@ -455,7 +455,7 @@ iframe {
 
 /* Tablet desktop :768px. */
 @media (min-width: 768px) and (max-width: 991px) {
-.charina_nav_manu  {
+.Charina_nav_manu  {
     display: none !important;
 }
 .header_top_menu {
@@ -482,17 +482,17 @@ iframe {
 }
 
 /*section title*/
-.charina-section-title h1 {
+.Charina-section-title h1 {
     font-size: 32px;
     line-height: 42px;
 }
-.charina-section-title h5 {
+.Charina-section-title h5 {
     font-size: 15px;
 }
-.charina-section-title p {
+.Charina-section-title p {
     font-size: 15px;
 }
-.about-section .charina-section-title h1 {
+.about-section .Charina-section-title h1 {
     font-size: 26px;
     line-height: 34px;
 }
@@ -520,7 +520,7 @@ iframe {
     left: 0;
     margin-bottom: 20px;
 }
-.charina-description p {
+.Charina-description p {
     font-size: 16px;
     line-height: 28px;
 }
@@ -531,7 +531,7 @@ iframe {
 .about-item-content p {
     width: 82%;
 }
-.upper.charina-check-list p {
+.upper.Charina-check-list p {
     font-size: 14px;
 }
 
@@ -548,7 +548,7 @@ p.progress-text {
 .progress-text span {
     font-size: 11px;
 }
-.feature-section .charina-section-title h1 {
+.feature-section .Charina-section-title h1 {
     font-size: 25px;
     line-height: 32px;
 }
@@ -565,7 +565,7 @@ p.progress-text {
 
 
 /*event section*/
-.events-section .charina-section-title h1 {
+.events-section .Charina-section-title h1 {
     font-size: 28px;
     line-height: 40px;
 }
@@ -614,7 +614,7 @@ p.progress-text {
 
 /*testimonial*section*/
 
-.testimonial-section .charina-section-title h1 {
+.testimonial-section .Charina-section-title h1 {
     font-size: 27px;
     line-height: 40px;
 }
@@ -642,7 +642,7 @@ p.progress-text {
 }
 
 /*donate section*/
-.donate-section.style-two .charina-section-title h1 {
+.donate-section.style-two .Charina-section-title h1 {
     font-size: 26px;
     line-height: 38px;
 }
@@ -683,11 +683,11 @@ p.progress-text {
     padding: 3px 30px;
     font-size: 15px;
 }
-.charina-single-mission-items {
+.Charina-single-mission-items {
     display: block;
     padding: 55px 55px 55px;
 }
-.charina-mission-content {
+.Charina-mission-content {
     padding: 12px 0 0 0px;
 }
 
@@ -696,7 +696,7 @@ p.progress-text {
 .counter-title h1 {
     font-size: 33px;
 }
-.counter-section.style-two .charina-section-title h1 {
+.counter-section.style-two .Charina-section-title h1 {
     font-size: 24px;
     line-height: 35px;
 }
@@ -707,7 +707,7 @@ p.progress-text {
 .call-do-title h2 {
     font-size: 40px;
 }
-.style-two.call-to-action .charina-section-title h1 {
+.style-two.call-to-action .Charina-section-title h1 {
     font-size: 24px;
 }
 .style-three.call-to-action {
@@ -733,7 +733,7 @@ p.progress-text {
 
 /*blog section*/
 
-.charina-blog-thumb img {
+.Charina-blog-thumb img {
     width: 100%;
 }
 .blog-title h2 a {
@@ -774,7 +774,7 @@ iframe {
     margin-right: 28px !important;
     margin-bottom: 30px;
 }
-.charina-donars {
+.Charina-donars {
     padding: 30px 42px 30px;
 }
 .post-button a {
@@ -795,11 +795,11 @@ iframe {
 .post-comment-thumb {
     float: inherit;
 }
-.donation-details-section .charina-button a {
+.donation-details-section .Charina-button a {
     padding: 5px 17px;
     font-size: 11px;
 }
-.donation-details-section .charina-button a i {
+.donation-details-section .Charina-button a i {
     font-size: 11px;
     margin-left: 4px;
 }
@@ -869,7 +869,7 @@ iframe {
 .header_top_menu {
     display: none;
 }    
-.charina_nav_manu {
+.Charina_nav_manu {
     display: none;
 }
 
@@ -892,17 +892,17 @@ iframe {
 }
 
 /*section title*/
-.charina-section-title h1 {
+.Charina-section-title h1 {
     font-size: 32px;
     line-height: 40px;
 }
-.charina-section-title h5 {
+.Charina-section-title h5 {
     font-size: 15px;
 }
-.charina-section-title p {
+.Charina-section-title p {
     font-size: 15px;
 }
-.about-section .charina-section-title h1 {
+.about-section .Charina-section-title h1 {
     font-size: 26px;
     line-height: 34px;
 }
@@ -927,11 +927,11 @@ iframe {
     bottom: 8%;
 }
 
-.charina-description p {
+.Charina-description p {
     font-size: 16px;
     line-height: 28px;
 }
-.charina-check-list p {
+.Charina-check-list p {
     font-size: 15px;
 }
 /*abour progress*/
@@ -952,17 +952,17 @@ p.progress-text {
 .service-section.style-two {
     text-align: center;
 }
-.service-section.style-two .charina-section-title {
+.service-section.style-two .Charina-section-title {
     margin-bottom: 30px;
 }
 .service-section {
     text-align: center;
 }
-.service-section .charina-section-title.white {
+.service-section .Charina-section-title.white {
     margin-bottom: 30px;
 }
 /*event section*/
-.events-section .charina-section-title h1 {
+.events-section .Charina-section-title h1 {
     font-size: 28px;
     line-height: 40px;
 }
@@ -987,7 +987,7 @@ p.progress-text {
 .style-two.events-section {
     padding: 60px 50px 40px;
 }
-.events-section .charina-button {
+.events-section .Charina-button {
     margin-bottom: 40px;
 }
 .event-list .owl-nav {
@@ -1004,10 +1004,10 @@ p.progress-text {
     font-size: 15px;
     padding: 4px 22px;
 }
-.charina-single-mission-items {
+.Charina-single-mission-items {
     display: block;
 }
-.charina-mission-content {
+.Charina-mission-content {
     padding: 10px 0 0 0px;
 }
 .mission-title h3 {
@@ -1016,7 +1016,7 @@ p.progress-text {
 .mission-shape {
     top: 6%;
 }
-.charina-mission-thumb img {
+.Charina-mission-thumb img {
     width: 100%;
 }
 
@@ -1032,7 +1032,7 @@ p.progress-text {
 
 /*testimonial*section*/
 
-.testimonial-section .charina-section-title h1 {
+.testimonial-section .Charina-section-title h1 {
     font-size: 27px;
     line-height: 40px;
 }
@@ -1126,13 +1126,13 @@ p.progress-text {
 .call-do-title h2 {
     font-size: 40px;
 }
-.style-two.call-to-action .charina-section-title.white {
+.style-two.call-to-action .Charina-section-title.white {
     text-align: center;
 }
-.style-two.call-to-action .charina-button.text-right {
+.style-two.call-to-action .Charina-button.text-right {
     text-align: center !important;
 }
-.charina-button.text-right {
+.Charina-button.text-right {
     text-align: center !important;
     margin-top: 30px;
 }
@@ -1158,7 +1158,7 @@ p.progress-text {
 
 /*blog section*/
 
-.charina-blog-thumb img {
+.Charina-blog-thumb img {
     width: 100%;
 }
 .blog-title h2 a {
@@ -1228,7 +1228,7 @@ iframe {
 .widget-title2 h3 {
     font-size: 25px;
 }
-.charina-button a {
+.Charina-button a {
     padding: 14px 38px;
     font-size: 15px;
 }
@@ -1262,7 +1262,7 @@ iframe {
 }
 /* small mobile :480px. */
 @media only screen and (min-width: 480px) and (max-width: 599px) {
-.charina_nav_manu {
+.Charina_nav_manu {
     display: none;
 }
 .header_top_menu {
@@ -1312,21 +1312,21 @@ iframe {
 }
 
 /*section title*/
-.charina-section-title h1 {
+.Charina-section-title h1 {
     font-size: 32px;
     line-height: 40px;
 }
-.charina-section-title h5 {
+.Charina-section-title h5 {
     font-size: 15px;
 }
-.charina-section-title p {
+.Charina-section-title p {
     font-size: 15px;
 }
-.about-section .charina-section-title h1 {
+.about-section .Charina-section-title h1 {
     font-size: 26px;
     line-height: 34px;
 }
-.charina-section-title h4 {
+.Charina-section-title h4 {
     font-size: 16px;
 }
 
@@ -1350,11 +1350,11 @@ iframe {
 .about-three .about-thumb2 {
     left: 0;
 }
-.charina-description p {
+.Charina-description p {
     font-size: 16px;
     line-height: 28px;
 }
-.charina-check-list p {
+.Charina-check-list p {
     font-size: 15px;
 }
 .about-item-content p {
@@ -1379,12 +1379,12 @@ p.progress-text {
 .service-section.style-two {
     text-align: center;
 }
-.service-section.style-two .charina-section-title {
+.service-section.style-two .Charina-section-title {
     margin-bottom: 30px;
 }
 
 /*event section*/
-.events-section .charina-section-title h1 {
+.events-section .Charina-section-title h1 {
     font-size: 28px;
     line-height: 40px;
 }
@@ -1408,7 +1408,7 @@ p.progress-text {
     top: 5%;
 }
 
-.events-section .charina-button {
+.events-section .Charina-button {
     margin-bottom: 40px;
 }
 .style-two .event-title h3 {
@@ -1454,7 +1454,7 @@ p.progress-text {
 
 /*testimonial*section*/
 
-.testimonial-section .charina-section-title h1 {
+.testimonial-section .Charina-section-title h1 {
     font-size: 27px;
     line-height: 40px;
 }
@@ -1533,7 +1533,7 @@ p.progress-text {
 }
 
 /*service section*/
-.service-section .charina-section-title.white {
+.service-section .Charina-section-title.white {
     text-align: center;
     margin-bottom: 30px;
 }
@@ -1569,18 +1569,18 @@ p.progress-text {
     margin-right: 10px;
 }
 
-.charina-single-mission-items {
+.Charina-single-mission-items {
     display: block;
     padding: 55px 55px 55px;
 }
-.charina-mission-content {
+.Charina-mission-content {
     padding: 20px 0 0 22px;
 }
 .mission-title h3 {
     font-size: 23px;
     line-height: 34px;
 }
-.charina-mission-thumb img {
+.Charina-mission-thumb img {
     width: 100%;
 }
 .mission-items-desc p {
@@ -1596,13 +1596,13 @@ p.progress-text {
 .call-do-title h2 {
     font-size: 40px;
 }
-.style-two.call-to-action .charina-section-title.white {
+.style-two.call-to-action .Charina-section-title.white {
     text-align: center;
 }
-.style-two.call-to-action .charina-button.text-right {
+.style-two.call-to-action .Charina-button.text-right {
     text-align: center !important;
 }
-.charina-button.text-right {
+.Charina-button.text-right {
     text-align: center !important;
     margin-top: 30px;
 }
@@ -1632,7 +1632,7 @@ p.progress-text {
 /*blog section*/
 
 
-.charina-blog-thumb img {
+.Charina-blog-thumb img {
     width: 100%;
 }
 .blog-title h2 a {
@@ -1706,7 +1706,7 @@ iframe {
 .widget-title2 h3 {
     font-size: 25px;
 }
-.charina-button a {
+.Charina-button a {
     padding: 14px 38px;
     font-size: 15px;
 }
@@ -1742,7 +1742,7 @@ iframe {
 
 /* small mobile :320px. */
 @media only screen and (min-width: 320px) and (max-width: 479px) {
-.charina_nav_manu {
+.Charina_nav_manu {
     display: none;
 }
 .header_top_menu {
@@ -1796,27 +1796,27 @@ iframe {
     font-size: 14px;
 }
 
-.feature-section .charina-section-title h1 {
+.feature-section .Charina-section-title h1 {
     font-size: 21px;
     line-height: 30px;
 }
-.feature-section .charina-section-title h4 {
+.feature-section .Charina-section-title h4 {
     font-size: 16px;
     margin-top: 20px;
 }
 
 /*section title*/
-.charina-section-title h1 {
+.Charina-section-title h1 {
     font-size: 30px;
     line-height: 40px;
 }
-.charina-section-title h4 {
+.Charina-section-title h4 {
     font-size: 15px;
 }
-.charina-section-title p {
+.Charina-section-title p {
     font-size: 15px;
 }
-.about-section .charina-section-title h1 {
+.about-section .Charina-section-title h1 {
     font-size: 21px;
     line-height: 34px;
 }
@@ -1844,18 +1844,18 @@ iframe {
 .about-three .about-thumb2 {
     left: 0;
 }
-.charina-description p {
+.Charina-description p {
     font-size: 15px;
     line-height: 28px;
 }
-.charina-check-list p {
+.Charina-check-list p {
     font-size: 15px;
 }
-.about-three.about-section .charina-section-title h1 {
+.about-three.about-section .Charina-section-title h1 {
     font-size: 22px;
     line-height: 32px;
 }
-.charina-button a {
+.Charina-button a {
     font-size: 14px;
 }
 .about-item-content h3 {
@@ -1868,7 +1868,7 @@ iframe {
     font-size: 13px;
     width: 96%;
 }
-.upper.charina-check-list p {
+.upper.Charina-check-list p {
     margin-bottom: 6px;
     font-size: 12px;
 }
@@ -1893,14 +1893,14 @@ p.progress-text {
 .service-section.style-two {
     text-align: center;
 }
-.service-section.style-two .charina-section-title {
+.service-section.style-two .Charina-section-title {
     margin-bottom: 30px;
 }
 
 
 
 /*event section*/
-.events-section .charina-section-title h1 {
+.events-section .Charina-section-title h1 {
     font-size: 24px;
     line-height: 36px;
 }
@@ -1928,7 +1928,7 @@ p.progress-text {
     top: 1%;
 }
 
-.events-section .charina-button {
+.events-section .Charina-button {
     margin-bottom: 40px;
 }
 
@@ -1974,14 +1974,14 @@ p.progress-text {
 .volunteer-text span {
     font-size: 15px;
 }
-.style-two.volunteers-section .charina-section-title h1 {
+.style-two.volunteers-section .Charina-section-title h1 {
     font-size: 27px;
     line-height: 34px;
 }
 
 /*testimonial*section*/
 
-.testimonial-section .charina-section-title h1 {
+.testimonial-section .Charina-section-title h1 {
     font-size: 24px;
     line-height: 36px;
 }
@@ -2058,11 +2058,11 @@ p.progress-text {
     top: -18%;
     right: 15px;
 }
-.donate-section.style-two .charina-section-title h1 {
+.donate-section.style-two .Charina-section-title h1 {
     font-size: 22px;
     line-height: 35px;
 }
-.donate-section.style-two .charina-section-title p {
+.donate-section.style-two .Charina-section-title p {
     font-size: 14px;
 }
 .donate-section.style-two.upper .progress-text span {
@@ -2106,7 +2106,7 @@ p.progress-text {
 }
 
 /*service section*/
-.service-section .charina-section-title.white {
+.service-section .Charina-section-title.white {
     text-align: center;
     margin-bottom: 30px;
 }
@@ -2135,7 +2135,7 @@ p.progress-text {
     margin-bottom: 15px;
 }
 
-.counter-section.style-two .charina-section-title h1 {
+.counter-section.style-two .Charina-section-title h1 {
     font-size: 20px;
     line-height: 35px;
 }
@@ -2147,18 +2147,18 @@ p.progress-text {
     margin-right: 10px;
 }
 
-.charina-single-mission-items {
+.Charina-single-mission-items {
     display: block;
     padding: 55px 30px 55px;
 }
-.charina-mission-content {
+.Charina-mission-content {
     padding: 20px 0 0 0px;
 }
 .mission-title h3 {
     font-size: 20px;
     line-height: 31px;
 }
-.charina-mission-thumb img {
+.Charina-mission-thumb img {
     width: 100%;
 }
 .mission-items-desc p {
@@ -2168,7 +2168,7 @@ p.progress-text {
     top: 2%;
     left: 12%;
 }
-.mission-sectoin .charina-section-title h1 {
+.mission-sectoin .Charina-section-title h1 {
     font-size: 23px;
     line-height: 25px;
 }
@@ -2198,12 +2198,12 @@ p.progress-text {
 .call-to-shape {
     top: -106px;
 }
-.style-two.call-to-action .charina-section-title h1 {
+.style-two.call-to-action .Charina-section-title h1 {
     font-size: 20px;
     line-height: 34px;
 }
 
-.style-three.call-to-action .charina-section-title h1 {
+.style-three.call-to-action .Charina-section-title h1 {
     font-size: 20px;
     line-height: 30px;
 }
@@ -2215,7 +2215,7 @@ p.progress-text {
     font-size: 15px;
 }
 
-.charina-button.text-right {
+.Charina-button.text-right {
     text-align: center !important;
     margin-top: 25px;
 }
@@ -2226,12 +2226,12 @@ p.progress-text {
 
 /*blog section*/
 
-.blog-section .charina-section-title h1 {
+.blog-section .Charina-section-title h1 {
     font-size: 23px;
     line-height: 35px;
 }
 
-.charina-blog-thumb img {
+.Charina-blog-thumb img {
     width: 100%;
 }
 .blog-title h2 a {
@@ -2273,12 +2273,12 @@ iframe {
     width: 100%;
 }
 
-.contact-us-section .charina-section-title h1 {
+.contact-us-section .Charina-section-title h1 {
     font-size: 19px;
     line-height: 28px;
 }
 
-.contact-info-section .charina-section-title h1 {
+.contact-info-section .Charina-section-title h1 {
     font-size: 23px;
 }
 .donations-detials-title h2 a {
@@ -2305,14 +2305,14 @@ iframe {
     margin-bottom: 20px;
     margin-right: 20px;
 }
-.donation-details-section .charina-button {
+.donation-details-section .Charina-button {
     padding: 0px 30px 45px 0;
 }
-.responsive.charina-button a {
+.responsive.Charina-button a {
     font-size: 14px;
     margin-top: 0;
 }
-.responsive.charina-button {
+.responsive.Charina-button {
     padding: 0px 30px 45px 0;
     margin-top: 0;
 }
@@ -2354,7 +2354,7 @@ iframe {
 .widget-title2 h3 {
     font-size: 25px;
 }
-.charina-button a {
+.Charina-button a {
     padding: 14px 38px;
     font-size: 15px;
 }
@@ -2402,7 +2402,7 @@ iframe {
 .row.contact-bg {
     padding: 25px 35px 45px;
 }
-.form-section .charina-section-title h1 {
+.form-section .Charina-section-title h1 {
     font-size: 20px;
     line-height: 27px;
 }

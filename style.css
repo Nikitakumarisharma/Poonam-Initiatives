@@ -9,41 +9,41 @@ Tags:       campaign, charity, church, donate, donations, foundation, fund, fund
 
 /*TABLE OF CONTENTS*/
 /*=====================
-01. charina top Menu Area Css
-02. charina Slider Area Css
-03. charina Menu Area Css
-04. charina Hero Section Css
-05. charina Section Title
-06. charina about Section Title
-07. charina donate Section Css
-08. charina progress ber Css
-09. charina call to action Css
-10. charina feature section Css
-11. charina service section Css
-12. charina events section Css
-13. charina brand Section Css
-14. charina testimonial Section Css
-15. charina mission & vission Section Css
-16. charina gallery Section Css
-17. charina Case study details Css
-18. charina volunteer Section Css
-19. charina blog Section Css 
-20. charina counter Section Css
-21. charina footer Section Css
-22. charina breatcam Section
-23. charina form Section
-24. charina donation detials Section
-25. charina donate two Section
-26. charina event details Section
-27. charina blob inner page Section
-25. charina contact us Section
+01. Charina top Menu Area Css
+02. Charina Slider Area Css
+03. Charina Menu Area Css
+04. Charina Hero Section Css
+05. Charina Section Title
+06. Charina about Section Title
+07. Charina donate Section Css
+08. Charina progress ber Css
+09. Charina call to action Css
+10. Charina feature section Css
+11. Charina service section Css
+12. Charina events section Css
+13. Charina brand Section Css
+14. Charina testimonial Section Css
+15. Charina mission & vission Section Css
+16. Charina gallery Section Css
+17. Charina Case study details Css
+18. Charina volunteer Section Css
+19. Charina blog Section Css 
+20. Charina counter Section Css
+21. Charina footer Section Css
+22. Charina breatcam Section
+23. Charina form Section
+24. Charina donation detials Section
+25. Charina donate two Section
+26. Charina event details Section
+27. Charina blob inner page Section
+25. Charina contact us Section
 26. Charina Loader Css
 27. Charina Scrollup Button Section
 =======================*/
 
 
 /*================================
- <--Start charina top Menu Area Css-->
+ <--Start Charina top Menu Area Css-->
 ==================================*/
 .header_top_menu {
     background: #FFF7F3;
@@ -94,21 +94,21 @@ Tags:       campaign, charity, church, donate, donations, foundation, fund, fund
 
 
 /*================================
-<-- Start charina Menu Area Css -->
+<-- Start Charina Menu Area Css -->
 ==================================*/
-.charina_nav_manu {
+.Charina_nav_manu {
     transition: .5s;
     padding: 0 0 0 75px;
-    border-bottom: 5px solid #FD7F4B;
+    border-bottom: 5px solid green;
     position: relative;
     z-index: 2;
 }
-.style-three.charina_nav_manu {
+.style-three.Charina_nav_manu {
     position: relative;
     margin-bottom: -100px;
     border-bottom: none;
 }
-.charina_nav_manu:before {
+.Charina_nav_manu:before {
     position: absolute;
     content: "";
     left: 0;
@@ -118,7 +118,7 @@ Tags:       campaign, charity, church, donate, donations, foundation, fund, fund
     width: 22%;
     background: white;
 }
-.charina_nav_manu.style-three:before {
+.Charina_nav_manu.style-three:before {
     display: none;
 }
 .style-three .logo {
@@ -147,36 +147,36 @@ Tags:       campaign, charity, church, donate, donations, foundation, fund, fund
 .sticky .logo {
     margin-top: 0;
 }
-.style-three.sticky .charina_menu > ul > li > a {
+.style-three.sticky .Charina_menu > ul > li > a {
      color: #1b3434;
 }
 
-.style-three.sticky nav.charina_menu > ul > li > a span {
+.style-three.sticky nav.Charina_menu > ul > li > a span {
     color: #1b3434;
 }
 
-/* charina Menu Css*/
+/* Charina Menu Css*/
 
-nav.charina_menu {
+nav.Charina_menu {
     text-align: center;
 }
 
-.style-three nav.charina_menu {
+.style-three nav.Charina_menu {
     text-align: right;
 }
 
-.charina_menu ul {
+.Charina_menu ul {
     list-style: none;
     display: inline-block;
 }
 
-.charina_menu>ul>li {
+.Charina_menu>ul>li {
    display: inline-block;
    position: relative;
    z-index: 1;
 }
 
-.charina_menu > ul > li > a {
+.Charina_menu > ul > li > a {
     display: inline-block;
     margin: 30px 16px;
     -webkit-transition: .5s;
@@ -188,41 +188,41 @@ nav.charina_menu {
     z-index: 1;
 }
 
-.charina_menu ul li a::before {
+.Charina_menu ul li a::before {
     position: absolute;
     content: "";
     width: 0%;
     height: 1px;
     bottom: -2px;
     left: 0;
-    background: #FC7E4B;
+    background: green;
     transition: 0.5s;
 }
 
-.style-three .charina_menu > ul > li > a {
+.style-three .Charina_menu > ul > li > a {
     margin: 30px 15px;
     color: #fff;
 }
 
-.style-three nav.charina_menu > ul > li > a span {
+.style-three nav.Charina_menu > ul > li > a span {
     color: #fff;
 }
 
-nav.charina_menu > ul > li > a span {
+nav.Charina_menu > ul > li > a span {
     font-size: 14px;
     padding-left: 6px;
     color: #1b3434;
 }
 
-.charina_menu > ul > li > a:hover {
-    color: #FC7E4B;
+.Charina_menu > ul > li > a:hover {
+    color: green;
 }
 
-nav.charina_menu > ul > li > a:hover span {
-   color: #FC7E4B; 
+nav.Charina_menu > ul > li > a:hover span {
+   color: green; 
 }
 
-.charina_menu ul li a:hover::before{
+.Charina_menu ul li a:hover::before{
     width: 100%;
 }
 
@@ -240,7 +240,7 @@ nav.charina_menu > ul > li > a:hover span {
     line-height: 26px;
     border-radius: 30px;
     color: #fff;
-    background: #FD7F4B;
+    background: green;
     display: inline-block;
     position: relative;
     z-index: 1;
@@ -344,19 +344,19 @@ nav.charina_menu > ul > li > a:hover span {
     margin-bottom: 3px;
 }
 
-/*charina nav menu style two*/
-.style-two.charina_nav_manu {
+/*Charina nav menu style two*/
+.style-two.Charina_nav_manu {
     background: #fff;
     margin-bottom: 0;
 }
-.style-two.charina_nav_manu:before {
+.style-two.Charina_nav_manu:before {
     position: inherit;
     background: #0D0E14;
 }
-.style-two .charina_menu > ul > li > a {
+.style-two .Charina_menu > ul > li > a {
     color: #0D0E14;
 }
-.style-two nav.charina_menu > ul > li > a span {
+.style-two nav.Charina_menu > ul > li > a span {
     color: #0D0E14;
 }
 /*header button*/
@@ -370,52 +370,52 @@ nav.charina_menu > ul > li > a:hover span {
     color: #9E9FA1;
 }
 /*stucky menu*/
-.style-two.sticky .charina_menu > ul > li > a {
+.style-two.sticky .Charina_menu > ul > li > a {
     color: #fff;
 }
-.style-two.sticky nav.charina_menu > ul > li > a span {
+.style-two.sticky nav.Charina_menu > ul > li > a span {
     color: #fff;
 }
-.style-two.sticky.charina_nav_manu .charina-button a {
+.style-two.sticky.Charina_nav_manu .Charina-button a {
     background: #fff;
     color: #ED1C24;
 }
-.style-two.sticky.charina_nav_manu  .charina-button:before {
+.style-two.sticky.Charina_nav_manu  .Charina-button:before {
     background: #ED1C24;;
 }
-.style-two.sticky.charina_nav_manu  .charina-button:after {
+.style-two.sticky.Charina_nav_manu  .Charina-button:after {
     background: #ED1C24;;
 }
-/*charina button*/
-.style-two.charina_nav_manu .charina-button {
+/*Charina button*/
+.style-two.Charina_nav_manu .Charina-button {
     margin-top: 7px;
 }
-.style-two.charina_nav_manu .charina-button a {
+.style-two.Charina_nav_manu .Charina-button a {
     padding: 16px 56px;
 }
-.style-two.charina_nav_manu .charina-button a:before, .style-two.charina_nav_manu .charina-button a:after {
+.style-two.Charina_nav_manu .Charina-button a:before, .style-two.Charina_nav_manu .Charina-button a:after {
     background-color: #ED1C24;
 }
 /*all hover*/
-.style-two.charina_nav_manu .charina-button a:hover {
+.style-two.Charina_nav_manu .Charina-button a:hover {
     color: #fff;
 }
-.style-two.charina_nav_manu  .charina-button:hover:before {
+.style-two.Charina_nav_manu  .Charina-button:hover:before {
     background: #fff;;
 }
-.style-two.charina_nav_manu  .charina-button:hover:after {
+.style-two.Charina_nav_manu  .Charina-button:hover:after {
     background: #fff;;
 }
-.style-two .charina_menu > ul > li > a:hover{
+.style-two .Charina_menu > ul > li > a:hover{
     color: #ED1C24;
 }
-.style-two nav.charina_menu > ul > li > a:hover span {
+.style-two nav.Charina_menu > ul > li > a:hover span {
     color: #ED1C24;
 }
 /*================================
 <-- Start Sub Menu Style Css -->
 ==================================*/
-.charina_menu ul .sub-menu {
+.Charina_menu ul .sub-menu {
     position: absolute;
     left: 0;
     top: 130%;
@@ -427,19 +427,19 @@ nav.charina_menu > ul > li > a:hover span {
     -webkit-box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.3);
     transition: .5s;
     visibility: hidden;
-    border-top: 2px solid #FD7F4B;
+    border-top: 2px solid green;
     opacity: 0;
 }
-.charina_menu ul li:hover>.sub-menu {
+.Charina_menu ul li:hover>.sub-menu {
      -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
      visibility: visible;
      top: 100%;
      opacity: 1;
  }
-.charina_menu ul .sub-menu li {
+.Charina_menu ul .sub-menu li {
      position: relative;
 }
-.charina_menu ul .sub-menu li a {
+.Charina_menu ul .sub-menu li a {
     display: block;
     padding: 12px 20px;
     margin: 0;
@@ -452,27 +452,27 @@ nav.charina_menu > ul > li > a:hover span {
     visibility: inherit !important;
     color: #1b3434 !important;
 }
-.charina_menu ul .sub-menu li:hover>a,
-.charina_menu ul .sub-menu .sub-menu li:hover>a,
-.charina_menu ul .sub-menu .sub-menu .sub-menu li:hover>a,
-.charina_menu ul .sub-menu .sub-menu .sub-menu .sub-menu li:hover>a {
-     background:#FD7F4B;
+.Charina_menu ul .sub-menu li:hover>a,
+.Charina_menu ul .sub-menu .sub-menu li:hover>a,
+.Charina_menu ul .sub-menu .sub-menu .sub-menu li:hover>a,
+.Charina_menu ul .sub-menu .sub-menu .sub-menu .sub-menu li:hover>a {
+     background:green;
      color: #fff !important;
 }
 
-.charina_menu ul li .sub-menu li a:before {
+.Charina_menu ul li .sub-menu li a:before {
     position: inherit !important;
 }
 
 /* sub menu 2 */
-.charina_menu ul .sub-menu .sub-menu {
+.Charina_menu ul .sub-menu .sub-menu {
      left: 100%;
      top: 130%;
      opacity: 0;
      -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
      visibility: hidden;
 }
-.charina_menu ul .sub-menu li:hover>.sub-menu {
+.Charina_menu ul .sub-menu li:hover>.sub-menu {
      opacity: 1;
      -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
      visibility: visible;
@@ -480,10 +480,10 @@ nav.charina_menu > ul > li > a:hover span {
 }
 
 /* sub menu 3 */
-.charina_menu ul .sub-menu .sub-menu li {
+.Charina_menu ul .sub-menu .sub-menu li {
     position: relative;
 }
-.charina_menu ul .sub-menu .sub-menu .sub-menu {
+.Charina_menu ul .sub-menu .sub-menu .sub-menu {
      right: 100%;
      left: auto;
      top: 130%;
@@ -491,7 +491,7 @@ nav.charina_menu > ul > li > a:hover span {
      -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
      visibility: hidden;
 }
-.charina_menu ul .sub-menu .sub-menu li:hover>.sub-menu {
+.Charina_menu ul .sub-menu .sub-menu li:hover>.sub-menu {
      opacity: 1;
      -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
      visibility: visible;
@@ -499,28 +499,28 @@ nav.charina_menu > ul > li > a:hover span {
 }
 
 /* sub menu 4 */
-.charina_menu ul .sub-menu .sub-menu .sub-menu li {
+.Charina_menu ul .sub-menu .sub-menu .sub-menu li {
     position: relative;
 }
-.charina_menu ul .sub-menu .sub-menu .sub-menu .sub-menu {
+.Charina_menu ul .sub-menu .sub-menu .sub-menu .sub-menu {
 }
-.charina_menu ul .sub-menu .sub-menu .sub-menu li:hover>.sub-menu {
+.Charina_menu ul .sub-menu .sub-menu .sub-menu li:hover>.sub-menu {
      opacity: 1;
      -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
      visibility: visible;
      top: 0%;
 }
 
-.charina_menu li a:hover:before{
+.Charina_menu li a:hover:before{
     width:101%;
 }
-.charina_nav_manu.sticky .logo_img {
+.Charina_nav_manu.sticky .logo_img {
     display: none;
 }
 .main_sticky {
     display: none;
 }
-.charina_nav_manu.sticky .main_sticky {
+.Charina_nav_manu.sticky .main_sticky {
     display: inherit;
 }
 .mobile-menu.mean-container {
@@ -530,11 +530,11 @@ nav.charina_menu > ul > li > a:hover span {
 
 
 /**=======================================
-<-- Start charina Hero Section Css -->
+<-- Start Charina Hero Section Css -->
 =========================================**/
 
 .hero-section {
-    background: url(assets/images/slider/hero-bg1.jpg);
+    background: url(assets/images/slider/home-carausal-2.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -548,21 +548,21 @@ nav.charina_menu > ul > li > a:hover span {
 /*hero title*/
 .hero-title h1 {
     font-size: 60px;
-    color: #fff;
-    line-height: 75px;
+    color: white;
+    line-height: 60px;
     margin-top: 0;
 }
 
 .hero-title h1 span {
     font-family: 'Lobster';
-    color: #FD7E4B;
+    color: green;
     font-weight: 400;
 }
 
 .hero-sub-title h5 {
     font-size: 20px;
     font-family: lobster;
-    color: #fe7f4c;
+    color: green;
     font-weight: 400;
     margin: 0 0 24px;
 }
@@ -591,7 +591,7 @@ nav.charina_menu > ul > li > a:hover span {
     right: 0;
     bottom: 0;
     left: 0;
-    background-color: #FE7F4C;
+    background-color: green;
     transition: .5s;
     z-index: -1;
 }
@@ -656,21 +656,21 @@ nav.charina_menu > ul > li > a:hover span {
 
  /*<!-- Start style two hero Section -->*/
 .hero2 {
-    background:url(assets/images/slider/hero-bg2.jpg);
+    background:url(assets/images/slider/home-carausal-1.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
     height: 800px;
 }
 .hero3 {
-    background: url(assets/images/slider/hero-bg4.png);
+    background: url(assets/images/slider/home-carausal-1.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-    height: 920px;
+    height: 900px;
 }
 .hero4 {
-    background: url(assets/images/slider/hero-bg3.png);
+    background: url(assets/images/slider/home-carausal-2.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -694,7 +694,7 @@ nav.charina_menu > ul > li > a:hover span {
     line-height: 52px;
     border-radius: 100%;
     color: #fff;
-    background: #fe7f4c;
+    background: green;
     display: inline-block;
     text-align: center;
     -webkit-transition: .5s;
@@ -710,19 +710,19 @@ nav.charina_menu > ul > li > a:hover span {
     left: 250px;
 }
 /*--==============================================->
-  <!-- Start charina Section Title -->
+  <!-- Start Charina Section Title -->
  ==================================================-*/
-.charina-section-title h4 {
+.Charina-section-title h4 {
     font-size: 18px;
     font-weight: 400;
-    color: #fe7f4c;
+    color: green;
     line-height: 30px;
     font-family: 'Lobster';
-    margin-bottom: 16px;
+    margin-bottom: 10px;
     position: relative;
     display: inline-block;
 }
-.charina-section-title h4:before {
+.Charina-section-title h4:before {
     position: absolute;
     content: "";
     left: 0;
@@ -732,33 +732,33 @@ nav.charina_menu > ul > li > a:hover span {
     background: #53C99F;
     transition: .5s;
 }
-.charina-section-title h1 {
+.Charina-section-title h1 {
     font-size: 42px;
     line-height: 52px;
 }
-.charina-section-title h1 span {
-    color: #FD7F4B;
+.Charina-section-title h1 span {
+    color: green;
 }
 h1.section-text {
     margin-top: 0;
 }
-.charina-section-title p {
+.Charina-section-title p {
     padding: 25px 0 0;
     line-height: 28px;
     font-size: 16px;
 }
 /*section hover*/
-.charina-section-title h4:hover:before {
+.Charina-section-title h4:hover:before {
     width: 100%;
 }
 /*other style*/
-.text-center.charina-section-title h4:before {
+.text-center.Charina-section-title h4:before {
     left: 0;
     right: 0;
     margin: auto;
 }
 /*--==============================================->
-  <!-- Start charina about Section Title -->
+  <!-- Start Charina about Section Title -->
  ==================================================-*/
 .about-section {
     background: url(assets/images/resource/about-bg.jpg);
@@ -773,46 +773,46 @@ h1.section-text {
 .about-thumb {
     margin: 0 0 0 -300px;
 }
-/*charina description*/
-.charina-description {
+/*Charina description*/
+.Charina-description {
     background: #FFF2ED;
     padding: 18px 25px 6px;
     border-radius: 5px;
-    border-left: 5px solid #FE7F4C;
+    border-left: 5px solid green;
     margin-top: 27px;
 }
-.charina-description p {
+.Charina-description p {
     font-size: 18px;
     color: #1b3434;
     line-height: 30px;
     font-family: 'Manrope';
     font-weight: 500;
 }
-.charina-description p span {
-    color: #FD7F4B;
+.Charina-description p span {
+    color: green;
 }
 
-/*charina check list*/
-.charina-check-list {
+/*Charina check list*/
+.Charina-check-list {
     padding: 35px 0 0;
 }
-.charina-check-list p {
+.Charina-check-list p {
     margin-bottom: 11px;
 }
-.charina-check-list p i {
+.Charina-check-list p i {
     color: #53C99F;
     font-size: 20px;
     display: inline-block;
     margin-right: 7px;
 }
-p.charina-icon i {
-    color: #FD7F4B;
+p.Charina-icon i {
+    color: green;
 }
-/*charina button */
-.charina-button a {
+/*Charina button */
+.Charina-button a {
     padding: 15px 40px;
     font-weight: 500;
-    background: #FD7F4B;
+    background: green;
     border-radius: 30px;
     color: #fff;
     margin-top: 25px;
@@ -820,7 +820,7 @@ p.charina-icon i {
     position: relative;
     z-index: 1;
 }
-.charina-button a:before {
+.Charina-button a:before {
     position: absolute;
     content: "";
     left: 0;
@@ -833,11 +833,11 @@ p.charina-icon i {
     transform: scale(0);
     transition: .5s;
 }
-.charina-button a i {
+.Charina-button a i {
     font-size: 13px;
     margin-left: 5px;
 }
-.charina-button a:hover:before {
+.Charina-button a:hover:before {
     transform: scale(1);
 }
 
@@ -889,7 +889,7 @@ p.charina-icon i {
 }
 
 /*about items*/
-.charina-about-items {
+.Charina-about-items {
     padding: 17px 0 0;
 }
 
@@ -912,7 +912,7 @@ p.charina-icon i {
     width: 75%;
     padding: 8px 0 10px;
 }
-.upp.charina-button a {
+.upp.Charina-button a {
     margin-top: 7px;
 }
 
@@ -925,15 +925,15 @@ p.charina-icon i {
     position: relative;
     left: -90px;
 }
-.about-three.about-section .charina-section-title p {
+.about-three.about-section .Charina-section-title p {
     padding: 13px 0 0;
 }
 
-.upper.charina-check-list {
+.upper.Charina-check-list {
     padding: 13px 0 20px;
     border-bottom: 1px solid rgba(27,52,52,0.10196078431372549);
 }
-.upper.charina-check-list p {
+.upper.Charina-check-list p {
     margin-bottom: 11px;
     font-weight: 500;
     color: #1b3434;
@@ -970,10 +970,10 @@ p.charina-icon i {
 }
 
 /*--==============================================->
-  <!-- Start charina donate Section Css -->
+  <!-- Start Charina donate Section Css -->
  ==================================================-*/
 .project-section {
-    background: url(assets/images/resource/project-bg.png);
+    background: url(assets/images/resource/Home-project-bg.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -992,8 +992,10 @@ p.charina-icon i {
 }
 
 /*--==============================================->
-  <!-- Start charina donate Section Css -->
+  <!-- Start Charina donate Section Css -->
  ==================================================-*/
+
+ 
 .donate-section {
     padding: 82px 0 70px;
 }
@@ -1004,7 +1006,7 @@ p.charina-icon i {
     padding: 100px 0 70px;
 }
 /*donate single box*/
-.charina-donate-single-box {
+.Charina-donate-single-box {
     margin-bottom: 30px;
 }
 /*donate thumb*/
@@ -1026,14 +1028,14 @@ p.charina-icon i {
 }
 .thumb-category span {
     padding: 8px 19px;
-    background: #53c99f;
+    background: #53C99F;
     color: #fff;
     font-size: 14px;
     font-weight: 500;
     border-radius: 0 3px 0px 0;
 }
 /*donate content*/
-.charina-donate-content {
+.Charina-donate-content {
     padding: 12px 30px 30px;
     filter: drop-shadow(0px 10px 15px rgba(190,199,199,0.2));
     background-color: #ffffff;
@@ -1067,26 +1069,26 @@ p.charina-icon i {
 }
 /*upper box*/
 .upper .thumb-category span {
-    background: #FE7F4C;
+    background: green;
 }
 .upper .donate-thumb {
-    border-bottom: 4px solid #FE7F4C;
+    border-bottom: 4px solid green;
 }
 .upper .donate-text p i {
-    color: #FE7F4C;
+    color: green;
 }
 .upper .progress-ber-plugin {
     background-color: rgba(254,127,76,0.10196078431372549);
 }
 span.fill.up {
-    background: #FE7F4C !important;
+    background: green !important;
 }
 .upper .barfiller .tip {
-    color: #FE7F4C;
+    color: green;
 }
 /* donate hover*/
 .upper .donate-title h3 a:hover {
-    color: #FE7F4C;
+    color: green;
 }
 /*box upper2*/
 .upper2 .thumb-category span {
@@ -1154,10 +1156,10 @@ span.fill.up2 {
 /*owl carousel hover*/
 
 .donate-list .owl-prev:hover {
-    background: #FC7E4B;
+    background: green;
 }
 .donate-list .owl-next:hover {
-    background: #FC7E4B;
+    background: green;
 }
 .donate-list .owl-prev:hover i, .donate-list .owl-next:hover i {
     color: #fff; 
@@ -1213,16 +1215,16 @@ span.fill.up2 {
     color: #fff;
 }
 .donate-section.style-two p.progress-text span {
-    color: #FD7F4B !important;
+    color: green !important;
 }
 /*progress ber end*/
-.donate-section.style-two .charina-section-title p {
+.donate-section.style-two .Charina-section-title p {
     opacity: 0.502;
 }
-.donate-section.style-two .charina-button {
+.donate-section.style-two .Charina-button {
     display: inline-block;
 }
-.donate-section.style-two .charina-button a i {
+.donate-section.style-two .Charina-button a i {
     font-size: 15px;
 }
 .donate-date-text {
@@ -1249,7 +1251,7 @@ span.fill.up2 {
     height: 80px;
     line-height: 82px;
     border-radius: 100%;
-    color: #fe7f4c;
+    color: green;
     background: #fff;
     display: inline-block;
     text-align: center;
@@ -1281,7 +1283,7 @@ span.fill.up2 {
     font-size: 14px;
     font-weight: 500;
     color: #fff;
-    background: #53c99f;
+    background: #53C99F;
     display: inline-block;
     border-radius: 30px;
     margin-bottom: 12px;
@@ -1325,7 +1327,7 @@ h2.section-text {
     margin-bottom: 14px;
 }
 
-.donate-section.style-two.upper .charina-button {
+.donate-section.style-two.upper .Charina-button {
     display: block;
 }
 .donate-section.style-two.upper p.progress-text {
@@ -1384,17 +1386,17 @@ h2.section-text {
 /*owl carousel hover*/
 
 .donate-list2 .owl-prev:hover {
-    background: #FC7E4B;
+    background: green;
 }
 .donate-list2 .owl-next:hover {
-    background: #FC7E4B;
+    background: green;
 }
 .donate-list2 .owl-prev:hover i, .donate-list2 .owl-next:hover i {
     color: #fff; 
 }
 
 /**====================================================
---< charina progress ber Css -->
+--< Charina progress ber Css -->
 ======================================================**/
 .progress-ber-plugin {
     padding: 40px 20px 13px;
@@ -1425,7 +1427,7 @@ h2.section-text {
     position: absolute;
     z-index: 2;
     top: -30px;
-    color: #53c99f;
+    color: #53C99F;
     font-weight: 600;
 }
 .stat-bar:nth-of-type(1) .stat-bar-rating {
@@ -1455,7 +1457,7 @@ p.progress-text {
 
 
 /**====================================================
---< charina call to action Css -->
+--< Charina call to action Css -->
 ======================================================**/
 .call-to-action {
     background: url(assets/images/resource/call-bg.png);
@@ -1498,7 +1500,7 @@ p.progress-text {
 }
 .call-to-button a i {
     font-size: 13px;
-    color: #FD7F4B;
+    color: green;
     padding-left: 4px;
     transition: .5s;
 }
@@ -1516,7 +1518,7 @@ p.progress-text {
 }
 /*upper style*/
 .upper.call-to-button a:before {
-    background: #FD7E4B;
+    background: green;
 }
 .upper.call-to-button a i {
     color: #53C99F;
@@ -1535,7 +1537,7 @@ p.progress-text {
 
 /*call to action style two*/
 .style-two.call-to-action {
-    background: url(assets/images/resource/call-bg2.png);
+    background: url(assets/images/resource/home-volenter.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -1546,7 +1548,7 @@ p.progress-text {
     position: relative;
 }
 
-.style-two.call-to-action .charina-button a {
+.style-two.call-to-action .Charina-button a {
     padding: 15px 32px;
     margin-top: 0;
 }
@@ -1568,7 +1570,7 @@ p.progress-text {
 }
 
 /**====================================================
---< charina feature section Css -->
+--< Charina feature section Css -->
 ======================================================**/
 .feature-section {
     background: url(assets/images/resource/feature-bg.jpg);
@@ -1629,7 +1631,7 @@ p.progress-text {
     transition: .5s;
 }
 .feature-button a i {
-    color: #53c99f;
+    color: #53C99F;
     padding-left: 7px;
     font-size: 18px;
     position: relative;
@@ -1638,7 +1640,7 @@ p.progress-text {
 
 /*feature all hover*/
 .feature-button a:hover {
-    color: #53c99f;
+    color: #53C99F;
 }
 .feature-title h3:hover {
     color: #53C99F;
@@ -1649,16 +1651,16 @@ p.progress-text {
 
 /*Upper box*/
 .upper.feature-single-box:before {
-    background: #FD7E4B;
+    background: green;
 }
 .upper .feature-button a i {
-    color: #FD7E4B;
+    color: green;
 }
 .upper .feature-button a:hover {
-    color: #FD7E4B;
+    color: green;
 }
 .upper .feature-title h3:hover {
-    color: #FD7E4B;
+    color: green;
 }
 
 /*Upper2 box*/
@@ -1676,7 +1678,7 @@ p.progress-text {
 }
 
 /**====================================================
---< charina service section Css -->
+--< Charina service section Css -->
 ======================================================**/
 .service-section {
     background: url(assets/images/resource/service-bg.png);
@@ -1729,14 +1731,14 @@ p.progress-text {
     font-size: 18px;
     text-align: right;
     padding: 0 23px 0 0;
-    color: #FD7F4B;
+    color: green;
 }
 /*service all hover*/
 .service-button a:hover {
-    color: #FD7F4B;
+    color: green;
 }
 .service-title h3:hover {
-    color: #FD7F4B;
+    color: green;
 }
 .service-single-box:hover .service-icon img {
     transform: rotateY(180deg);
@@ -1767,7 +1769,7 @@ p.progress-text {
     background: #FFF7F5;
 }
 /**====================================================
---< charina events section Css -->
+--< Charina events section Css -->
 ======================================================**/
 
 .events-section {
@@ -1813,7 +1815,7 @@ div#slide {
     color: #1b3434;
 }
 .event-text p i {
-    color: #fe7f4c;
+    color: green;
     padding-right: 6px;
 }
 .event-text p span {
@@ -1844,7 +1846,7 @@ div#slide {
 }
 .event-button a i {
     font-size: 13px;
-    color: #FD7F4B;
+    color: green;
     padding-left: 4px;
     transition: .5s;
 }
@@ -1856,7 +1858,7 @@ div#slide {
 .event-date span {
     padding: 4px 22px;
     font-size: 14px;
-    background: #FD7E4B;
+    background: green;
     border-radius: 30px;
     display: inline-block;
     color: #fff;
@@ -1865,10 +1867,10 @@ div#slide {
 }
 /*hover*/
 .event-title h3 a:hover {
-    color: #FD7E4B;
+    color: green;
 }
 .event-button a:hover {
-    color: #FD7E4B;
+    color: green;
 }
 /* event box upper & hover*/
 .upper.events-single-box {
@@ -1930,7 +1932,7 @@ div#slide {
 .swiper-pagination-bullet {
     width: 17px !important;
     height: 17px !important;
-    border: 2px solid #FD7E4B;
+    border: 2px solid green;
     background: none;
     opacity: 1 !important;
 }
@@ -2059,7 +2061,7 @@ div#slide {
     background: rgba(254,127,76,0.8);
 }
 .style-two .upper .event-title h4 span {
-    color: #FE7F4C;
+    color: green;
 }
 
 /*upper box2*/
@@ -2128,10 +2130,10 @@ div#slide {
 /*owl carousel hover*/
 
 .event-list .owl-prev:hover {
-    background: #FC7E4B;
+    background: green;
 }
 .event-list .owl-next:hover {
-    background: #FC7E4B;
+    background: green;
 }
 .event-list .owl-prev:hover i, .event-list .owl-next:hover i {
     color: #fff; 
@@ -2169,7 +2171,7 @@ div#slide {
 .thumb-button span {
     padding: 8px 16px;
     font-size: 15px;
-    background: #FD7E4B;
+    background: green;
     color: #fff;
     border-radius: 4px;
     display: table-caption;
@@ -2200,17 +2202,17 @@ div#slide {
     color: #6f7775;
 }
 .style-three .event-title h3 a:hover {
-    color: #FD7E4B;
+    color: green;
 }
 /*--==============================================->
-  <!-- Start charina brand Section Css -->
+  <!-- Start Charina brand Section Css -->
  ==================================================-*/
 .brand-section {
     padding: 100px 0 100px;
 }
 
 /*--==============================================->
-  <!-- Start charina testimonial Section Css -->
+  <!-- Start Charina testimonial Section Css -->
  ==================================================-*/
 .testimonial-section {
     background: linear-gradient(rgba(20,33,33,0.9019607843137255),rgba(0,0,0,0.7)), url(assets/images/resource/testimonial-bg.jpg);
@@ -2223,7 +2225,7 @@ div#slide {
 
 /*testimonial box*/
 .testimonial-single-box {
-    background: url(assets/images/resource/testi-bg.jpg);
+    /* background: url(assets/images/resource/testi-bg.jpg); */
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -2251,7 +2253,7 @@ div#slide {
 }
 .testimonial-icon i {
     font-size: 50px;
-    color: #fe7f4c;
+    color: green;
     display: inline-block;
 }
 /*testi description*/
@@ -2271,7 +2273,7 @@ div#slide {
     font-size: 15px;
     padding: 6px 0 0 30px;
     position: relative;
-    color: #fe7f4c;
+    color: green;
 }
 .testi-text p:before {
     position: absolute;
@@ -2280,7 +2282,7 @@ div#slide {
     bottom: 12px;
     width: 20px;
     height: 2px;
-    background-color: #53c99f;
+    background-color: #53C99F;
 }
 /*testi star list*/
 .testi-star-list {
@@ -2303,13 +2305,13 @@ div#slide {
 }
 /*all hover*/
 .testimonial-single-box:hover .testi-star-list ul {
-    background: #FD7F4B;
+    background: green;
 }
 .testimonial-single-box:hover .testi-title h4 {
-    color: #FD7F4B;
+    color: green;
 }
 .testimonial-single-box:hover .testi-text p:before{
-    background: #FD7F4B;
+    background: green;
 }
 
 /*testi shape*/
@@ -2319,10 +2321,10 @@ div#slide {
 }
 
 /*--==============================================->
-  <!-- Start charina mission & vission Section Css -->
+  <!-- Start Charina mission & vission Section Css -->
  ==================================================-*/
 .mission-sectoin {
-    background: url(assets/images/resource/mission-bg.png);
+    background: url(assets/images/resource/Home-project-bg.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -2367,7 +2369,7 @@ div#slide {
 }
 .tabs li button {
     padding: 6px 32px;
-    background-color: #FD7F4B !important;
+    background-color: green !important;
     color: #fff;
     font-weight: 500;
     display: inline-block;
@@ -2386,13 +2388,13 @@ li.current:before {
     height: 15px;
     margin: auto;
     width: 16px;
-    background: #FD7F4B;
+    background: green;
     transform: rotate(45deg);
 }
 
 .tabs li a {
     padding: 6px 32px;
-    background-color: #FD7F4B !important;
+    background-color: green !important;
     color: #fff;
     font-weight: 500;
     display: inline-block;
@@ -2412,7 +2414,7 @@ li.current:before {
     background: #FFD016 !important;
 }
 .tabs li:nth-child(2).current:before{
-    background: #FD7F4B !important;
+    background: green !important;
 }
 .tabs li:nth-child(3).current:before{
     background: #1BC7ED !important;
@@ -2422,7 +2424,7 @@ li.current:before {
 }
 .nav-pills .nav-link.active, .nav-pills .show>.nav-link {
     color: #fff;
-    background-color: #FD7F4B !important;
+    background-color: green !important;
 }
 /*Style two*/
 
@@ -2455,7 +2457,7 @@ li.current:before {
 }
 
 /*single mission items*/
-.charina-single-mission-items {
+.Charina-single-mission-items {
     padding: 55px 55px 55px;
     background: #fff;
     filter: drop-shadow(0px 10px 25px rgba(226,205,196,0.3));
@@ -2463,7 +2465,7 @@ li.current:before {
     border-radius: 4px;
 }
 /*mission content*/
-.charina-mission-content {
+.Charina-mission-content {
     padding: 0 0 0 55px;
     text-align: left;
 }
@@ -2485,7 +2487,7 @@ li.current:before {
 }
 .mission-list ul li i {
     font-size: 20px;
-    color: #fe7f4c;
+    color: green;
     padding-right: 6px;
 }
 /*misssion button*/
@@ -2503,7 +2505,7 @@ li.current:before {
 .mission-button a i {
     font-size: 13px;
     margin-left: 5px;
-    color: #FD7E4B;
+    color: green;
     transition: .5s;
 }
 .mission-button a:before {
@@ -2513,7 +2515,7 @@ li.current:before {
     right: 0;
     top: 0;
     bottom: 0;
-    background: #FD7E4B;
+    background: green;
     border-radius: 30px;
     z-index: -1;
     transform: scale(0);
@@ -2524,7 +2526,7 @@ li.current:before {
     transform: scale(1);
 }
 .mission-button a:hover {
-    border: 1px solid #FD7E4B;
+    border: 1px solid green;
     color: #fff;
 }
 .mission-button a:hover i {
@@ -2541,7 +2543,7 @@ li.current:before {
 
 
 /*--==============================================->
-  <!-- Start charina galary Section Css -->
+  <!-- Start Charina galary Section Css -->
  ==================================================-*/
 
 .row.galary-bg {
@@ -2629,7 +2631,7 @@ li.current:before {
     top: 0;
 }
 .galary-text a:hover{
-    color: #FD7E4B;
+    color: green;
 }
 /*carousel active*/
 .active.center .galary-thumb .galary-text {
@@ -2713,7 +2715,7 @@ li.current:before {
 
 
 /*--==============================================->
-  <!-- Start charina Case study details Css -->
+  <!-- Start Charina Case study details Css -->
  ==================================================-*/
 
 .case-study-details {
@@ -2762,7 +2764,7 @@ li.current:before {
     width: 35px;
     line-height: 35px;
     text-align: center;
-    background: #FD7F4B;
+    background: green;
     border-radius: 5px;
     transition: .5s;
 }
@@ -2829,7 +2831,7 @@ li.current:before {
 
 
 /*--==============================================->
-  <!-- Start charina volunteer Section Css -->
+  <!-- Start Charina volunteer Section Css -->
  ==================================================-*/
 .volunteers-section {
     padding: 100px 0 60px;
@@ -2888,7 +2890,7 @@ li.current:before {
 }
 /*volunteer text*/
 .volunteer-text span {
-    color: #FD7E4B;
+    color: green;
     font-weight: 500;
     padding: 5px 0 0;
     display: inline-block;
@@ -2896,10 +2898,10 @@ li.current:before {
 /* all hover*/
 
 .volunteer-title h2:hover {
-    color: #FD7E4B;
+    color: green;
 }
 .volunteer-social-icon ul li a:hover {
-    color: #FD7E4B;
+    color: green;
 }
 .volunteer-single-box:hover .volunteer-thumb:before {
     transform: scale(1);
@@ -2946,18 +2948,18 @@ li.current:before {
 
 
 /*--==============================================->
-  <!-- Start charina volunteer Section Css -->
+  <!-- Start Charina volunteer Section Css -->
  ==================================================-*/
 .blog-section {
     padding: 80px 0 70px;
 }
 
 /*single blog box*/
-.charina-single-blog-box {
+.Charina-single-blog-box {
     position: relative;
     margin-bottom: 30px;
 }
-.charina-single-blog-box:before {
+.Charina-single-blog-box:before {
     position: absolute;
     content: "";
     left: 0;
@@ -2969,16 +2971,16 @@ li.current:before {
 }
 
  /*blog thumb*/
-.charina-blog-thumb {
+.Charina-blog-thumb {
     position: relative;
     border-bottom: 5px solid #53C99F;
 }
-.charina-blog-thumb img {
+.Charina-blog-thumb img {
     width: 100%;
 }
 
 /*blog content*/
-.charina-blog-content {
+.Charina-blog-content {
     padding: 22px 30px 22px;
     filter: drop-shadow(0px 10px 15px rgba(190,199,199,0.2));
     background-color: #fff;
@@ -3012,7 +3014,7 @@ span.post {
 /*blog title*/
 .blog-title h2 a {
     font-size: 22px;
-    font-weight: 700;
+    font-weight: 300;
     line-height: 30px;
     display: inline-block;
     transition: .5s;
@@ -3043,7 +3045,7 @@ span.post {
 }
 .share-icon a {
     font-size: 18px;
-    color: #53c99f;
+    color: #53C99F;
 }
 
 
@@ -3056,27 +3058,27 @@ span.post {
 }
 
 /* upper box*/
-.upper .charina-blog-thumb {
-    border-bottom: 5px solid #FD7F4B;
+.upper .Charina-blog-thumb {
+    border-bottom: 5px solid green;
 }
 .upper .meta-blog span {
-    background: #FD7F4B;
+    background: green;
 }
 .upper .post-categories p i {
-    color: #FD7F4B;
+    color: green;
 }
 .upper .blog-title h2 a:hover {
-    color: #FD7F4B;
+    color: green;
 }
 .upper .blog-button a:hover {
-    color: #FD7F4B;
+    color: green;
 }
 .upper .share-icon a {
-    color: #FD7F4B;
+    color: green;
 }
 
 /* upper box*/
-.upper2 .charina-blog-thumb {
+.upper2 .Charina-blog-thumb {
     border-bottom: 5px solid #19C6EA;
 }
 .upper2 .meta-blog span {
@@ -3105,11 +3107,16 @@ span.post {
     margin-top: -472px;
 }
 
+
+
+/*  */
+
+
 /*--==============================================->
-  <!-- Start charina counter Section Css -->
+  <!-- Start Charina counter Section Css -->
  ==================================================-*/
 .counter-section {
-    background: url(assets/images/resource/counter-bg.png);
+    background:rgb(144, 201, 144);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -3171,7 +3178,7 @@ h1.counter-title2 {
     font-size: 50px;
     display: inline-block;
     font-family: 'Lobster';
-    color: #53c99f;
+    color: #53C99F;
     font-weight: 400;
     margin-top: 0;
 }
@@ -3190,7 +3197,7 @@ h1.counter-title2 {
     background: #FFF2EC;
 }
 .upper .counter-title2 h1 {
-    color: #FD7E4B;
+    color: green;
 }
 /*upper2 box*/
 .counter-single-box.upper2 {
@@ -3209,11 +3216,11 @@ h1.counter-title2 {
 }
 
 /*--==============================================->
-  <!-- Start charina footer Section Css -->
+  <!-- Start Charina footer Section Css -->
  ==================================================-*/
 
 .footer-section {
-    background: url(assets/images/resource/footer-bg.jpg);
+    background: gray;
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -3235,7 +3242,7 @@ h1.counter-title2 {
     padding: 14px 39px;
     font-weight: 500;
     color: #fff;
-    background: #FD7E4B;
+    background: green;
     display: inline-block;
     border-radius: 30px;
     position: relative;
@@ -3281,7 +3288,7 @@ h4.widget-title:before {
     bottom: -8px;
     width: 40px;
     height: 2px;
-    background: #FD7E4B;
+    background: green;
     transition: .5s;
 }
 h4.widget-title:hover:before {
@@ -3307,7 +3314,7 @@ ul.footer-widget-list li a i {
     padding-right: 8px;
 }
 ul.footer-widget-list li:hover a {
-    color: #FD7E4B;
+    color: green;
 }
 
 /* widget contact info*/
@@ -3341,7 +3348,7 @@ ul.footer-widget-list li:hover a {
 }
 /*footer buttom area*/
 .footer-bottom-area {
-    background: #172526;
+    background:black;
     padding: 20px 0 4px;
 }
 .footer-bottom-content-copy p {
@@ -3364,7 +3371,7 @@ ul.footer-widget-list li:hover a {
     font-weight: 500;
 }
 .footer-bottom-menu ul li a:hover{
-    color: #FD7E4B;
+    color: green;
 }
 /*footer shape*/
 .footer-shape {
@@ -3417,7 +3424,7 @@ ul.footer-widget-list li:hover a {
     margin-top: -200px;
     border-radius: 50%;
     text-align: center;
-    background-color: #FD7F4B;
+    background-color: green;
     width: 70px;
     cursor: pointer;
     box-shadow: 0 0 10px rgba(0,0,0,0.05);
@@ -3494,7 +3501,7 @@ ul.footer-widget-list li:hover a {
     background: transparent;
     text-align: center;
     font-size: 24px;
-    color: #FD7F4B;
+    color: green;
     padding: 0;
     cursor: pointer;
     -webkit-transition: all 500ms ease;
@@ -3919,14 +3926,50 @@ span.flaticon-multiply i {
 
 /*--==============================================->
   <!--Start breatcam Section-->
- ==================================================-*/
-
-.breatcam-section {
-    background: url(assets/images/resource/breatcome-bg.png);
+ =====================
+ =============================-*/
+ .breatcam-section-contact {
+    background: url(assets/images/resource/home-galary-6.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 600px;
+    z-index: 1;
+    position: relative;
+}
+ .breatcam-section-donate {
+    background: url(assets/images/donation-img/donation-img.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 600px;
+    z-index: 1;
+    position: relative;
+}
+.breatcam-section-event {
+    background: url(assets/images/event-img/event.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 600px;
+    z-index: 1;
+    position: relative;
+}
+ .breatcam-section-about {
+    background: url(assets/images/about-img/carasual-about.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
     height: 450px;
+    z-index: 1;
+    position: relative;
+}
+.breatcam-section {
+    background: url(assets/images/Projects-img/children\ poonam.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 550px;
     z-index: 1;
     position: relative;
 }
@@ -3935,7 +3978,7 @@ span.flaticon-multiply i {
     display: inline-block;
     list-style: none;
     padding: 0 5px 0 0px;
-    color: #FD7E4B;
+    color: green;
     font-weight: 500;
 }
 .breatcam-menu ul li a {
@@ -3953,7 +3996,7 @@ span.flaticon-multiply i {
 }
 /*breatcam hover*/
 .breatcam-menu ul li a:hover {
-    color: #FD7E4B;
+    color: green;
 }
 
 
@@ -3972,7 +4015,7 @@ span.flaticon-multiply i {
 }
 .row.contact-bg {
     padding: 0px 35px 0px;
-    background: #FD7F4B;
+    background: green;
     border-radius: 4px;
     margin-top: -204px;
 }
@@ -4083,7 +4126,7 @@ span.flaticon-multiply i {
     margin-bottom: 15px;
 }
 .style-two.progress-ber-plugin span.fill {
-    background: #FE7F4C!important;
+    background: green!important;
     border-radius: 5px;
 }
 .style-two.progress-ber-plugin .barfiller .tip {
@@ -4104,8 +4147,8 @@ span.flaticon-multiply i {
     text-align: right;
 }
 
-/*charina button*/
-.donation-details-section .charina-button {
+/*Charina button*/
+.donation-details-section .Charina-button {
     padding: 20px 30px 45px 0;
 }
 
@@ -4118,7 +4161,7 @@ span.flaticon-multiply i {
 }
 
 .donations-detials-title h2 a:hover {
-    color: #FD7E4B;
+    color: green;
 }
 
 /*donation list*/
@@ -4134,7 +4177,7 @@ span.flaticon-multiply i {
 }
 
 .donation-list ul li i {
-    color: #FD7E4B;
+    color: green;
     font-size: 18px;
     padding-right: 6px;
 }
@@ -4148,7 +4191,7 @@ span.flaticon-multiply i {
 
 /*chairna donar*/
 
-.charina-donars {
+.Charina-donars {
     padding: 30px 50px 30px;
     background: #1B2B2B;
     border-radius: 4px;
@@ -4168,7 +4211,7 @@ span.flaticon-multiply i {
 .donar-title h6 {
     font-size: 14px;
     font-weight: 600;
-    color: #fe7f4c;
+    color: green;
     margin-top: 3px;
 }
 
@@ -4206,7 +4249,7 @@ span.flaticon-multiply i {
 }
 .post-title h6 {
     font-size: 15px;
-    color: #fe7f4c;
+    color: green;
     font-weight: 400;
     margin-top: 2px;
 }
@@ -4222,7 +4265,7 @@ span.flaticon-multiply i {
 .post-button a {
     padding: 1px 15px;
     font-size: 14px;
-    background: #FD7F4B;
+    background: green;
     float: right;
     color: #fff;
     position: relative;
@@ -4272,8 +4315,8 @@ span.flaticon-multiply i {
 
 .style-two.contact-form button {
     padding: 15px 38px;
-    background: #FD7E4B;
-    border: 1px solid #FD7E4B;
+    background: green;
+    border: 1px solid green;
     border-radius: 30px;
     color: #fff;
     display: inline-block;
@@ -4331,12 +4374,66 @@ span.flaticon-multiply i {
     font-size: 14px;
 }
 .rpost-content h4 a:hover {
-    color: #FD7F4B;
+    color: green;
 }
 /*organizer items*/
+
+/***** IMAGE STYLES *****/
+.organizer-thumb img {
+    width: 100%;
+    height: auto;
+    /* display: block; */
+  }
+  
+  /***** THE OVERLAY *****/
+  .organizer-overlay {
+    /* Make it fill the entire card */
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    pointer-events: none;
+  
+    /* Center overlay text */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  
+    /* Start hidden */
+    opacity: 0;
+    visibility: hidden;
+    /* transition: opacity 0.3s ease, visibility 0.3s ease; */
+  
+    /* This background allows for blur behind it */
+    /* Increase alpha (0.4) if you want it darker */
+    background-color: rgba(0, 0, 0, 0.4);
+  
+    /* The magic blur effect */
+    backdrop-filter: blur(5px); 
+    -webkit-backdrop-filter: blur(5px);
+  
+    /* Text styling */
+    color: #fff;
+    padding: 15px;
+    box-sizing: border-box;
+    font-size: 14px;
+    line-height: 1.4;
+  }
+  
+  /***** SHOW OVERLAY ON HOVER (only when hovering on the image) *****/
+ 
+  
+  .organizer-thumb:hover ~ .organizer-overlay {
+    opacity: 1;
+    visibility: visible;
+  }
+  
 .organizer-items {
+    position: relative; 
     padding: 40px 32px 40px;
-    background: #FD7F4B;
+    background: green;
     border-radius: 4px;
     margin-bottom: 30px;
     text-align: center;
@@ -4397,19 +4494,19 @@ span.flaticon-multiply i {
     transform: scale(1);
 }
 .organizer-social ul li a:hover {
-    color: #FD7F4B;
+    color: green;
 }
 
 /*widget categoreis thumb*/
 .widget-categories-thumb {
-    background: url(assets/images/resource/a-1.png);
+    background: gray;
     background-repeat: no-repeat;
     background-position: center;
     padding: 75px 15px 75px;
     margin-bottom: 30px;
     border-radius: 4px;
 }
-.donation-details-section .widget-categories-thumb .charina-button {
+.donation-details-section .widget-categories-thumb .Charina-button {
     padding: 13px 0px 45px 0;
 }
 
@@ -4448,7 +4545,7 @@ span.flaticon-multiply i {
     right: 0;
     top: 0;
     bottom: 0;
-    background: #FE7F4C;
+    background: green;
     height: 100%;
     width: 0;
     border-radius: 4px;
@@ -4489,7 +4586,7 @@ span.flaticon-multiply i {
     right: 0;
     top: 0;
     bottom: 0;
-    background: #FE7F4C;
+    background: green;
     border-radius: 30px;
     z-index: -1;
     transform: scale(0);
@@ -4548,7 +4645,7 @@ span.flaticon-multiply i {
 
 .up.donation-description p {
     font-size: 18px;
-    color: #fe7f4c;
+    color: green;
     padding: 10px 0 10px;
 }
 
@@ -4560,12 +4657,12 @@ span.flaticon-multiply i {
     padding: 7px 20px 9px;
     font-size: 14px;
     background: #FFF6F1;
-    border-left: 3px  solid #FD7E4B;
+    border-left: 3px  solid green;
     border-radius: 2px;
     margin: 38px 0 32px;
 }
 .event-note p span {
-    color: #FD7E4B;
+    color: green;
     padding-right: 5px;
 }
 
@@ -4576,7 +4673,7 @@ span.flaticon-multiply i {
     background-size: cover;
     background-position: center;
     padding: 34px 35px 40px;
-    border-top: 5px solid #FD7F4B;
+    border-top: 5px solid green;
     border-radius: 4px;
     margin-bottom: 30px;
 }
@@ -4596,7 +4693,7 @@ span.flaticon-multiply i {
     top: 13px;
     width: 43px;
     height: 2px;
-    background: #FD7F4B;
+    background: green;
 }
 /*event text*/
 .event-text2 {
@@ -4609,7 +4706,7 @@ span.flaticon-multiply i {
 }
 .event-text2 p i {
     font-size: 15px;
-    color: #fe7f4c;
+    color: green;
     padding-right: 8px;
 }
 
@@ -4656,7 +4753,7 @@ span.flaticon-multiply i {
     right: 0;
     top: 0;
     bottom: 0;
-    background: #FD7E4B;
+    background: green;
     border-radius: 50%;
     transform: scale(0);
     transition: .5s;
@@ -4689,7 +4786,7 @@ span.flaticon-multiply i {
 }
 .upper.meta-blog span {
     padding: 5px 21px;
-    background: #FD7F4B;
+    background: green;
     color: #fff;
     border-radius: 0 17px 0 0;
     display: inline-block;
@@ -4727,7 +4824,7 @@ span.flaticon-multiply i {
 
 .blog-text2 p i {
     font-size: 14px;
-    color: #fe7f4c;
+    color: green;
     padding-right: 10px;
 }
 span.icon-thumb {
@@ -4738,7 +4835,7 @@ span.blog-rt {
 }
 
 .blog-title2 h3 a:hover {
-    color: #FD7E4B;
+    color: green;
 }
 /*blog button*/
 
@@ -4751,14 +4848,14 @@ span.blog-rt {
 }
 .blog-button2 a i {
     font-size: 14px;
-    color: #FD7F4B;
+    color: green;
     position: relative;
     top: 2px;
     left: 5px;
 }
 
 .blog-button2 a:hover {
-    color: #FD7F4B;
+    color: green;
 }
 
 
@@ -4767,7 +4864,7 @@ span.blog-rt {
     padding: 30px 30px 30px;
     border-radius: 4px;
     margin-bottom: 30px;
-    background: #FE7F4C;
+    background: green;
 }
 .widget_search form {
     position: relative;
@@ -4783,7 +4880,7 @@ span.blog-rt {
 }
 button.icons {
     border: 0;
-    color: #FE7F4C;
+    color: green;
     position: absolute;
     right: 12px;
     top: 17px;
@@ -4801,7 +4898,7 @@ button.icons {
     padding: 22px 0 0;
 }
 .blogs-descriptions span {
-    color: #FD7F4B;
+    color: green;
 }
 
 
@@ -4819,7 +4916,7 @@ button.icons {
     font-weight: 500;
 }
 .special-desc span {
-    color: #fe7f4c;
+    color: green;
     font-family: lobster;
     padding: 0 0 0 35px;
     position: relative;
@@ -4831,14 +4928,14 @@ button.icons {
     top: 10px;
     width: 28px;
     height: 2px;
-    background: #FD7E4B;
+    background: green;
 }
 
 .up.donations-detials-title h2 a {
     font-size: 26px;
 }
 .donate-description p span {
-    color: #FD7E4B;
+    color: green;
 }
 
 /*tags list*/
@@ -4863,7 +4960,7 @@ button.icons {
     transition: .5s;
 }
 .tag-list ul li a:hover {
-    background: #FD7E4B;
+    background: green;
     color: #fff;
 }
 
@@ -4900,7 +4997,7 @@ button.icons {
     right: 0;
     top: 0;
     bottom: 0;
-    background: #FD7E4B;
+    background: green;
     border-radius: 30px;
     z-index: -1;
     transform: scale(0);
@@ -4922,7 +5019,7 @@ button.icons {
   <!--Start contact us Section-->
  ==================================================-*/
 .contact-us-section {
-    background: #FFF6F1;
+    background: rgb(242, 225, 228);
     padding: 80px 0 100px;
 }
 
@@ -4950,7 +5047,7 @@ button.icons {
 }
 /*contact info*/
 .contact-info-section {
-    background: url(assets/images/resource/contact-inf.jpg);
+    background: black;
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -4993,7 +5090,7 @@ button.icons {
 }
 
 .upper.contacts-icon i {
-    background: #FE7F4C;
+    background: green;
 }
 .upper2.contacts-icon i {
     background: #1BC7ED;
@@ -5022,7 +5119,7 @@ button.tablink {
     margin-bottom: 5px;
 }
 button.tablink:hover {
-    background: #FD7F4B;
+    background: green;
     color: #fff;
 }
 /*tab content*/
@@ -5089,7 +5186,7 @@ button.tablink:hover {
   background: #9faab7;
 }
 .option-input:checked {
-    background: #FD7E4B;
+    background: green;
 }
 .option-input:checked::before {
     width: 10px;
@@ -5139,7 +5236,7 @@ button.tablink:hover {
     border-radius: 50%;
     transition: all 1s 1s ease;
     border: 3px solid transparent;
-    border-top-color: #FD7F4B;
+    border-top-color: green;
     -webkit-animation: spin 1.5s linear infinite;
     -moz-animation: spin 1.5s linear infinite;
     -o-animation: spin 1.5s linear infinite;
@@ -5304,7 +5401,7 @@ button.tablink:hover {
     text-align: center;
     line-height: 46px;
     font-size: 18px;
-    color: #FD7E4B;
+    color: green;
     left: 0;
     top: 0;
     height: 46px;
@@ -5339,7 +5436,7 @@ button.tablink:hover {
 }
 
 .prgoress_indicator:hover ::after {
-  color: #FD7E4B;
+  color: green;
 }
 
 .prgoress_indicator:hover ::before {

@@ -129,12 +129,12 @@ li {
  
 }
 input:focus, button:focus {
-    outline: 1px solid #FD7E4B;
+    outline: 1px solid green;
     box-shadow: 0 0 6px rgb(253 126 75 / 60%);
 }
 textarea:focus{
 	border-color:#ED1C24;
-	outline: 1px solid #FD7E4B;
+	outline: 1px solid green;
     box-shadow: 0 0 6px rgb(253 126 75 / 60%);
 }
 select:focus{

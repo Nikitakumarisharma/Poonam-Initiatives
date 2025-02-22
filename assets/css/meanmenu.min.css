@@ -1,6 +1,6 @@
 a.meanmenu-reveal{display:none}
 .mean-container .mean-bar {
-    background: #FE7F4C;
+    background: green;
     float: left;
     min-height: 60px;
     padding: 4px 0 0;
@@ -97,7 +97,7 @@ a.meanmenu-reveal{display:none}
 .mean-container a.meanmenu-reveal span {
   background: #fff;
 }
-.mobile-menu-area {
+.-area {
   background: #fff none repeat scroll 0 0;
 }
 .mean-container .mean-nav ul li a.mean-expand {
@@ -121,7 +121,7 @@ a.meanmenu-reveal{display:none}
 }
 .mean-container .mean-bar::before {
     color: #fff;
-    content: "Charina";
+    content: "Poonam Initiavtives";
     font-size: 28px;
     font-weight: 600;
     font-family: 'Playfair Display';
